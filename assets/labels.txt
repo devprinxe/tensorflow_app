@@ -1,0 +1,4 @@
+0 Hand
+1 Palm
+2 Finger
+3 Face
